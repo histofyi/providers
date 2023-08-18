@@ -1,0 +1,12 @@
+[project]
+name = "providers"
+version = "0.1"
+description = "A python library of providers for data to and from different services."
+readme = "README.md"
+authors = [{name = "Chris Thorpe"}]
+license = {text = "Apache-2.0"}
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha"
+]
+# ...
+dependencies = []
